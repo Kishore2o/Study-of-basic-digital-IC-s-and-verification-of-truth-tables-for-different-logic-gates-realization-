@@ -94,6 +94,8 @@ endmodule
 ## Developed by: S.Kishore
 # RegisterNumber:  212222240050
 ## Logic symbol & Truthtable
+![image](https://github.com/Kishore2o/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118679883/0b07c539-d806-4e9a-b5b1-7bcde022a779)
+
 
 # RTL :
 ![image](https://github.com/Kishore2o/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118679883/ec8749be-9e1d-45be-888e-c61e5932bab8)
